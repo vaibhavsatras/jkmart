@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jkmart/static/css/main.294bfd91.css",
+    "main.js": "/jkmart/static/js/main.0a746ebe.js",
+    "index.html": "/jkmart/index.html",
+    "main.294bfd91.css.map": "/jkmart/static/css/main.294bfd91.css.map",
+    "main.0a746ebe.js.map": "/jkmart/static/js/main.0a746ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294bfd91.css",
+    "static/js/main.0a746ebe.js"
+  ]
+}
